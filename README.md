@@ -192,7 +192,7 @@ A Work Breakdown Structure (WBS) is a hierarchical decomposition of the projectâ
 **1)Improves Planning and Scheduling:** By breaking down the project into smaller tasks, the WBS enables more accurate scheduling and time estimates, making it easier to create realistic timelines and track progress.
 
 
-**2)**Enhances Resource Allocation:** With a detailed WBS, teams can determine the resources (personnel, equipment, materials) required for each task, ensuring that resources are allocated efficiently and effectively.
+**2)Enhances Resource Allocation:** With a detailed WBS, teams can determine the resources (personnel, equipment, materials) required for each task, ensuring that resources are allocated efficiently and effectively.
 
 
 **3)Facilitates Cost Estimation and Budgeting:** Breaking down work into specific tasks helps estimate costs at each level of the project, which leads to more accurate budgeting and financial tracking.
